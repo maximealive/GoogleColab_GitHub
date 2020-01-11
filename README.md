@@ -6,5 +6,5 @@ https://colab.research.google.com/notebooks/welcome.ipynb.
 
 The only things you need are:
 - Google account
-- Github token (link to obtain the token available in GoogleColab_GitHub.ipynb file)
+- Github token https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
 - If repository is private -> invitation as  collaborator needed
