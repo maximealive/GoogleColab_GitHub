@@ -1,4 +1,4 @@
-# GoogleColab_GitHub
+# GoogleColab - GitHub
 Use GitHub's private repositories in Google Colaboratory.
 
 Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud
